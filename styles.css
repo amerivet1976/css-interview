@@ -1,0 +1,19 @@
+div{
+    border: 3px solid blue;
+    padding: 25px;
+    box-shadow: 10px 10px blue;
+    background-color: aqua;
+    }
+
+h1{
+    font: 100;
+}
+img{
+    border-radius: 50px;
+
+}
+
+li {
+    font-style: italic;
+
+}
